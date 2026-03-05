@@ -1,3 +1,4 @@
 name: JuicePassProxy add-on repository
-url: https://github.com/jaydeethree/hassio-juicepassproxy
-maintainer: jaydeethree
+url: https://github.com/jechiasson/hassio-juicepassproxy
+
+maintainer: jechiasson
