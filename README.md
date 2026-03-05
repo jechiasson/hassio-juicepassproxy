@@ -2,6 +2,8 @@
 
 This project is **NOT** affiliated with JuicePassProxy or the JuiceRescue Organization - this is an unofficial ~~add-on~~ app.
 
+This fork adds support for the experimental flag. Added to support JuiceBox v1 metal version with different firmware.
+
 # Installing the app
 
 You will need to add this repository to Home Assistant to install this app. Here's how to do that:
