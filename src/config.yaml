@@ -31,3 +31,4 @@ schema:
   juicebox_id: str?
   jpp_host: str?
   debug: bool?
+  experimental: bool?
