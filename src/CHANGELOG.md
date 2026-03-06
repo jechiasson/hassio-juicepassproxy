@@ -1,3 +1,7 @@
+## 0.5.2-manual
+- Custom build for amd64 architecture.
+- Integrated experimental zero-crossing switching logic.
+- Pointed image source to ghcr.io/jechiasson.   
 ## 0.5.1.08
 - Update base image from Alpine 3.21 to Alpine 3.22
 - Update Python from 3.12 to 3.13
