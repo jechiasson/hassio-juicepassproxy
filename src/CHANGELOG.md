@@ -1,3 +1,5 @@
+## 0.5.3-manual
+- Ignores unused JSON payloads
 ## 0.5.2-manual
 - Custom build for amd64 architecture.
 - Integrated experimental zero-crossing switching logic.

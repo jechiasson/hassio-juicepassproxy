@@ -1,6 +1,6 @@
 name: "JuicePassProxy"
 description: "This tool will publish JuiceBox data to Home Assistant by using a Man in the Middle UDP proxy to MQTT that is auto-discoverable by HomeAssistant."
-version: "0.5.2-manual"
+version: "0.5.3-manual"
 slug: "juicepassproxy"
 image: "ghcr.io/jechiasson/hassio-juicepassproxy-{arch}"
 ports:
@@ -20,6 +20,8 @@ options:
   mqtt_password: ""
   ignore_enelx: true
   update_udpc: false
+  experimental: true
+  debug: true
 schema:
   mqtt_host: str
   mqtt_port: port
